@@ -24,7 +24,7 @@ JAVA语言的入门级基础知识和代码编写环境的搭建。
 - 2014年 安义中学毕业
 - 2015年 江西科技学院 蓝色技术工作室 软件队队长
 - 2016年 江西科技学院 蓝色技术工作室 负责人
-- 2016年 独立搭建 [蓝色技术工作室官方网站](www.lansejishu.com)
+- 2016年 独立搭建 [蓝色技术工作室官方网站](https://www.lansejishu.com)
 - 2017年 获得 阿里云云计算助理工程师认证（ACA）[点击查看证书](https://raw.githubusercontent.com/FutureWL/basic-training-course/master/image/%E9%98%BF%E9%87%8C%E4%BA%91%E4%BA%91%E8%AE%A1%E7%AE%97%E5%8A%A9%E7%90%86%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AE%A4%E8%AF%81%EF%BC%88ACA%EF%BC%89.png)
 - 2017年 南昌亿云技术公司 负责开发 《工地 WI-FI 覆盖共享计费云平台项目 》
 - 2018年 江西阳晨科技公司 负责开发 《基于物联网的智慧城市远程照明系统云平台》
