@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+## 软件开发入门培训班
 
-You can use the [editor on GitHub](https://github.com/FutureWL/basic-training-course/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+高考之后，怎样填报志愿，是多数同学和家长十分重视的问题，尤其是填报软件专业时，心中有蛮多疑虑，只知道需要软件知识的地方越来越多，就业前景越来越好，薪资水平越来越高，至于具体学习哪些内容，怎样学习，难度怎样，自己是否有能力走上软件开发的道路，多数同学和家长比较陌生，不是很清楚，以致造成到大学里学习软件时特别吃力，毕业时需要再进培训机构学习应聘技巧，才能找到工作。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+为了使同学在填报志愿之前，对软件专业有一个初步印象，我打算在安义县开办一个软件开发方向的零基础入门培训班，为有兴趣从事软件开发的同学当个向导。计算机语言有很多种，常用的有C，C++，JAVA，Python等等,对于零基础的初学者，目前业界用得最广泛、上手难度较低、就业前景火爆的JAVA语言最为合适，本培训计划在6月中下旬用8天时间和同学们分享一些学习JAVA语言的经验，引导大家进入软件开发的代码世界。
 
-### Markdown
+### 培训班的基本情况如下：
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. 内容：JAVA语言的入门级基础知识和代码编写环境的搭建。
+2. 时间：6月中下旬（填报志愿之前），8天时间（每天4节课，上午两节，下午两节，每节课1个小时，共32节）。
+3. 为提高培训效果，一期只招收6位同学，以报名先后为准。
+4. 配置高性能专用笔记本电脑（i5+8G+128G SSD），搭建好编程环境，提供海量学习资料。（可自备笔记本电脑）
+5. 费用：学费3200元（100元每节，共32节），高性能专用笔记本电脑2800元，共6000元。
 
-```markdown
-Syntax highlighted code block
+6. 技术布道师：Future. 魏来
 
-# Header 1
-## Header 2
-### Header 3
+2014年 安义中学毕业
+2015年 江西科技学院 蓝色技术工作室 软件队队长
+2016年 江西科技学院 蓝色技术工作室 负责人
+2016年 独立搭建 蓝色技术工作室 官方网站 www.lansejishu.com
+2017年 获得阿里云云计算助理工程师认证（ACA）
+2017年 南昌亿云技术公司 负责开发 《工地 WI-FI 覆盖共享计费云平台项目 》
+2018年 江西阳晨科技公司 负责开发 《基于物联网的智慧城市远程照明系统云平台》
+2019年 江西智慧教育研究院 负责开发 《日日新学堂 在线学习系统》
 
-- Bulleted
-- List
+7. 联系方式：手机（微信）18607097289，QQ：624263934 GigHub：github.com/FutureWL。
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FutureWL/basic-training-course/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+8. 咨询地点：成才文化用品店（安义中学北门西30米）。
