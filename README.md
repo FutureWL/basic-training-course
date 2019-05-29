@@ -59,7 +59,7 @@
 - 2016年04月 独立搭建 [蓝色技术工作室官方网站](https://www.lansejishu.com)
 - 2017年06月 南昌亿云技术公司 负责开发《工地 WI-FI 覆盖共享计费云平台项目》
 - 2017年11月 江西阳晨科技公司 负责开发《基于物联网的智慧城市远程照明系统云平台》
-- 2017年11月 获得 阿里云云计算助理工程师认证（ACA）[点击查看证书](https://raw.githubusercontent.com/FutureWL/basic-training-course/master/image/%E9%98%BF%E9%87%8C%E4%BA%91%E4%BA%91%E8%AE%A1%E7%AE%97%E5%8A%A9%E7%90%86%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AE%A4%E8%AF%81%EF%BC%88ACA%EF%BC%89.png)
+- 2017年11月 获得 阿里云云计算助理工程师认证（ACA）![点击查看证书](https://raw.githubusercontent.com/FutureWL/basic-training-course/master/image/%E9%98%BF%E9%87%8C%E4%BA%91%E4%BA%91%E8%AE%A1%E7%AE%97%E5%8A%A9%E7%90%86%E5%B7%A5%E7%A8%8B%E5%B8%88%E8%AE%A4%E8%AF%81%EF%BC%88ACA%EF%BC%89.png)
 - 2018年09月 江西阳晨科技公司 负责开发《基于Android物联网的音乐座椅灯系统》部署南昌抚河公园
 - 2019年05月 南昌猎手猫物联科技有限公司 CTO 合伙人
 
